@@ -1,3 +1,3 @@
 _hoy=$(date +"%m_%d_%Y_%r_%S") 
 _report="report$_hoy" 
-sudo sh * > $HOME/$_report().log
+sudo sh * > $home/$_report().log
